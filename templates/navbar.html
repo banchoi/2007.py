@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8">
+			</head>
+			<body>
+				<nav class="navbar navbar-expand-lg navbar-light bg-light">
+					<a class="navbar-brand" href="#">osu_2007</a>
+					<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+						<span class="navbar-toggler-icon"></span>
+					</button>
+					<div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+						<div class="navbar-nav">
+							<a class="nav-item nav-link active" href="">Home {%- if page == home -%}
+
+								<span class="sr-only">(current)</span>
+          {%- endif %}
+							</a>
+							<a class="nav-item nav-link" href="api">API Documentation {%- if page == apidocs -%}
+
+								<span class="sr-only">(current)</span>
+          {%- endif %}
+							</a>
+							<a class="nav-item nav-link" href="clans">Clans {%- if page == clans -%}
+
+								<span class="sr-only">(current)</span>
+          {%- endif %}
+							</a>
+							<a class="nav-item nav-link" href="donation" tabindex="-1" aria-disabled="true"><i class="fas fa-heart" style="color: #d6323b"></i> Donate {%- if page == donate -%}
+
+								<span class="sr-only">(current)</span>
+          {%- endif %}
+							</a>
+							<a class="nav-item nav-link" href="#" tabindex="-1" aria-disabled="true">Discord Server</a>
+						</div>
+					</div>
+				</nav>
+			</body>
+		</html>
