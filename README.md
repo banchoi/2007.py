@@ -1,2 +1,24 @@
 # 2007.py
-ok I'm not the best at csharp so we're doing a rewrite in *insert shit programming language*
+Whats done:
+Login (works)
+Frontend (works)
+Scoreboard (semi-works, needs a little quick fix)
+Replay submitting (fixing this after i finally find out a soulution to the error im getting)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+MD5 is trash we might start passwords in md5 and bcrypt instead 
