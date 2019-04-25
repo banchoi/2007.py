@@ -59,7 +59,7 @@ def allscores():
 
     row = dbexec.fetchall();
 
-    return ":".join(row);
+    return '\n'.join(":".join(tuples) for tuples in row);
 
 @app.route("/web/osu-getreplay.php")
 def getreplay():
