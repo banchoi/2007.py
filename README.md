@@ -1,9 +1,9 @@
 # 2007.py
 Whats done:
-Login (works)
-Frontend (works)
-Scoreboard (semi-works, needs a little quick fix)
-Replay submitting (fixing this after i finally find out a soulution to the error im getting)
+1. Login (works)
+2. Frontend (works)
+3. Scoreboard (semi-works, needs a little quick fix)
+4. Replay submitting (fixing this after i finally find out a soulution to the error im getting)
 
 
 
