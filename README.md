@@ -21,4 +21,4 @@ Whats done:
 
 
 
-MD5 is trash we might start passwords in md5 and bcrypt instead 
+MD5 is trash we might start hashing passwords in md5 and bcrypt instead 
