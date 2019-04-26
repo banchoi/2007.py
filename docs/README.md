@@ -46,4 +46,4 @@ By commiting source code to banchoi/2007.py
 
 
 # giv me 2007 pacet me wan 2 mak me own 2007 serv!!!!!!!!!!
-Read the <a href="/docs">docs</a>
+Read the <a href="/2007.py/docs">docs</a>
